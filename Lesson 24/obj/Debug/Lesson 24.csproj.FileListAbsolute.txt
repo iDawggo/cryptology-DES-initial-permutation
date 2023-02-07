@@ -1,0 +1,15 @@
+C:\Users\livia\source\repos\Lesson 24\Lesson 24\bin\Debug\Lesson 24.exe.config
+C:\Users\livia\source\repos\Lesson 24\Lesson 24\bin\Debug\Lesson 24.exe
+C:\Users\livia\source\repos\Lesson 24\Lesson 24\bin\Debug\Lesson 24.pdb
+C:\Users\livia\source\repos\Lesson 24\Lesson 24\obj\Debug\Lesson 24.csproj.AssemblyReference.cache
+C:\Users\livia\source\repos\Lesson 24\Lesson 24\obj\Debug\MainWindow.g.cs
+C:\Users\livia\source\repos\Lesson 24\Lesson 24\obj\Debug\App.g.cs
+C:\Users\livia\source\repos\Lesson 24\Lesson 24\obj\Debug\Lesson 24_MarkupCompile.cache
+C:\Users\livia\source\repos\Lesson 24\Lesson 24\obj\Debug\Lesson 24_MarkupCompile.lref
+C:\Users\livia\source\repos\Lesson 24\Lesson 24\obj\Debug\MainWindow.baml
+C:\Users\livia\source\repos\Lesson 24\Lesson 24\obj\Debug\Lesson 24.g.resources
+C:\Users\livia\source\repos\Lesson 24\Lesson 24\obj\Debug\Lesson_24.Properties.Resources.resources
+C:\Users\livia\source\repos\Lesson 24\Lesson 24\obj\Debug\Lesson 24.csproj.GenerateResource.cache
+C:\Users\livia\source\repos\Lesson 24\Lesson 24\obj\Debug\Lesson 24.csproj.CoreCompileInputs.cache
+C:\Users\livia\source\repos\Lesson 24\Lesson 24\obj\Debug\Lesson 24.exe
+C:\Users\livia\source\repos\Lesson 24\Lesson 24\obj\Debug\Lesson 24.pdb
